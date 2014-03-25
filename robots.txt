@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /diamonds_11/
+Sitemap: http://www.1-diamond-ring.com/sitemap.xml 
